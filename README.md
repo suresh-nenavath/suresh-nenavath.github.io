@@ -1,4 +1,4 @@
-# ai19resch11003.github.io
+# ai19resch11003
 Artificial Intelligence, PhD, IIT Hyderabad
 
 
