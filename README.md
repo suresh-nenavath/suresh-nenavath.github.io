@@ -1,4 +1,4 @@
-# ai19resch11003
+# AI19RESCH11003
 Artificial Intelligence, PhD, IIT Hyderabad
 
 
